@@ -31,6 +31,7 @@ This course has the following software requirements:<br/>
 <LI>Processor: Any modern processor(Intel Core i3 or equivalent)
 <LI>Memory: 8 GB
 <LI>Storage: 100GB
+  
 ### Software Requirements
 <LI>Operating system: Windows/Linux/macOS/Raspbian(if using Raspberry Pi)
 <LI>Anaconda, OpenCV 4</LI></UL>
