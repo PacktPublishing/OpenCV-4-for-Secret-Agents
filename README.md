@@ -26,7 +26,6 @@ This course has the following software requirements:<br/>
 
 ### Recommended Hardware Requirements
 <UL>
-<LI>For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <LI>OS: Windows/Linux/macOS/Raspbian(if using raspberry pi)
 <LI>Processor: Any modern processor(Intel Core i3 or equivalent)
 <LI>Memory: 8 GB
