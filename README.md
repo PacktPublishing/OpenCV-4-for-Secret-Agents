@@ -20,11 +20,20 @@ By the end of this course, you will be confident enough as a Secret Agent to dev
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-fdghgfhfgh
+This course is designed for hobbyists who are interested in building some really cool out-of-the-box, real-world computer vision and deep learning applications. This course assumes that the viewer has a working knowledge of Python.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
-dhthrthrth
+<UL>
+<LI>Recommended Hardware Requirements
+<LI>For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+<LI>OS: Windows/Linux/macOS/Raspbian(if using raspberry pi)
+<LI>Processor: Any modern processor(Intel Core i3 or equivalent)
+<LI>Memory: 8 GB
+<LI>Storage: 100GB
+<LI>Software Requirements
+<LI>Operating system: Windows/Linux/macOS/Raspbian(if using Raspberry Pi)
+ <LI>Anaconda, OpenCV4</LI></UL>
+
 
 ## Related Products
 * [Responsive Web Development with Bootstrap 4 and Angular 7 [Video]](https://www.packtpub.com/web-development/responsive-web-development-bootstrap-4-and-angular-7-video?utm_source=github&utm_medium=repository&utm_campaign=9781789615272)
