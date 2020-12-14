@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/opencv-4-for-secret-agents-second-edition/9781789345360)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789345367).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # OpenCV 4 for Secret Agents [Video]
 This is the code repository for [OpenCV 4 for Secret Agents [Video]](https://www.packtpub.com/application-development/opencv-4-secret-agents-video?utm_source=github&utm_medium=repository&utm_campaign=9781789806489), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
